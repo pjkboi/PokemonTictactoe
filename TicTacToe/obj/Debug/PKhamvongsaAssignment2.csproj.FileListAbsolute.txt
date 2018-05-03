@@ -1,0 +1,9 @@
+C:\Users\PJKha\Desktop\PKhamvongsaAssignemt2\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\PJKha\Desktop\PKhamvongsaAssignemt2\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\PJKha\Desktop\PKhamvongsaAssignemt2\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\PJKha\Desktop\PKhamvongsaAssignemt2\TicTacToe\obj\Debug\TicTacToe.TicTacToe.resources
+C:\Users\PJKha\Desktop\PKhamvongsaAssignemt2\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\PJKha\Desktop\PKhamvongsaAssignemt2\TicTacToe\obj\Debug\PKhamvongsaAssignment2.csproj.GenerateResource.Cache
+C:\Users\PJKha\Desktop\PKhamvongsaAssignemt2\TicTacToe\obj\Debug\PKhamvongsaAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\PJKha\Desktop\PKhamvongsaAssignemt2\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\PJKha\Desktop\PKhamvongsaAssignemt2\TicTacToe\obj\Debug\TicTacToe.pdb
